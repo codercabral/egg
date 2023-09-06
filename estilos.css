@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 80px;
+    background-color: orange;
+}
+
+main{
+    height: 450px;
+    background-color: #333;
+    color: #fff;
+}
+
+footer{
+    height: 200px;
+    background-color: orange;
+}
